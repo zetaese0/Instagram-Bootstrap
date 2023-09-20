@@ -1,0 +1,35 @@
+
+#myTab {
+    justify-content: center;
+    border:none;
+}
+
+#profile-tab {
+    border:none;
+}
+
+
+#enlinea {
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 3%; 
+}
+
+#home-tab {
+    border:none;
+}
+
+#home-tab-pane{
+    padding:2%;
+
+}
+
+#titulotarjeta {
+    display:inline-flex;
+    justify-content: space-between;
+}
+
+#LogOUT{
+    color: red;l
+}
+
